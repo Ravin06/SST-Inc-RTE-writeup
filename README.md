@@ -1,4 +1,5 @@
-SST-Inccamp 2022, CTF Writeup
+# SST-Inccamp 2022
+## CTF Writeup
 this writeup includes:
 
 [Audio Tester](https://github.com/Ravin06/SST-Inc-RTE-writeup/blob/main/Audio%20Tester.md)  
